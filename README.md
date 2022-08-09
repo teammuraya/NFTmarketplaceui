@@ -1,10 +1,27 @@
 # screen_sizer
 
-A new Flutter project.
+A new Flutter nft market place app project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+version 1.1 of the NFT market place platform with 
+Fully Responsive, Compatible with all screen sizes.
+Design with Flutter
+Separate File for Each Page & Component
+SplashScreen
+Login & Register Page
+Otp Screen
+See the best NFT stuff all in one place
+NFT List Screen
+NFT Detail Screen
+Trending Collection Screen
+Notification Screen
+Search NFTs
+Profile Screen
+Account Setting Screen
+Settings Screen
+Privacy Policy Screen
+
 
 A few resources to get you started if this is your first Flutter project:
 
